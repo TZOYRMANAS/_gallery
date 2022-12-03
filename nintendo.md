@@ -7,12 +7,12 @@ caption: Η Nintendo Co., Ltd.  είναι ιαπωνική πολυεθνική
 license_url: https://el.wikipedia.org/wiki/Nintendo
 license_text: wikipedia
 categories:
-  - video games 
+  - video games
+  - Console games 
   
 tags:
-  -  Mario
-  -  Pokémon
-  -  Metroid
-  -  The Legend of Zelda
-  -  Nintendo
+  -  Game Boy Advance
+  -  GameCube -  Nintendo ds
+  -  Nintendo Wii
+  -  Nintendo Switch
 ---
