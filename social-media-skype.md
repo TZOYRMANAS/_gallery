@@ -7,9 +7,10 @@ caption: ο Skype είναι μια εφαρμογή VoIP με εκατομμύ�
 license_url: https://el.wikipedia.org/wiki/Skype
 license_text: 
 categories:
-  - social media 
+  - video chat
+  - conference
+  - messager
 tags:
-  - Skype
-  - video conference
-  - Chat 
+  - Microsoft Skype
+  - Skype for Business
 ---
